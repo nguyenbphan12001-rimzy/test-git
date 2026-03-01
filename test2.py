@@ -1,5 +1,0 @@
-print("UEL")
-print("___________________")
-print("maiyeuuel")
-print("Một hai ba bốn")
-print("năm năm")
